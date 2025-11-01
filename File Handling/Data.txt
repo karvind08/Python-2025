@@ -1,2 +1,2 @@
-Write a Python program to read an entire text file.
+Start writing a Python program to read an entire text file.
 Create python function to read the content from a text file line by line and display the same on the screen.
