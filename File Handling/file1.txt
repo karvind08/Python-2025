@@ -1,1 +1,1 @@
-THIS IS SECTION THIS IS APPLE THIS IS PYTHON
+This is Section This is apple This is python
